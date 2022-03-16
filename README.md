@@ -2,3 +2,10 @@
 The repo that everyone deserves
 
 Yes, this contains all my background images.
+
+## Sources
+I am going to try to start adding sources.  A lot of these would take me
+forever to find the sources, so all sources are added post my realization.
+
+# Cites
+[powder.jpg](https://www.inprnt.com/gallery/nezuminata)
