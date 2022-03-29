@@ -9,3 +9,4 @@ forever to find the sources, so all sources are added post my realization.
 
 # Cites
 [powder.jpg](https://www.inprnt.com/gallery/nezuminata)
+[ThePrimeagen.jepg](https://twitter.com/PhunToken/status/1508883727316836356)
