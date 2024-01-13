@@ -17,7 +17,7 @@ Clone this repository. Make sure to replace YOUR_PATH with your desired location
 
 `git clone https://github.com/ThePrimeagen/anime.git /YOUR_PATH`
 
-Then put the following in your shell profile ("~/.bashrc", "~/.zshrc") and replace YOUR_PATH with the path you used earlier (the "$HOME" stands for the "~" in your path):  
+Then put the following in your shell profile (.bashrc or .zshrc) and replace YOUR_PATH with the path you used earlier (the "$HOME" stands for the "~" in your path):  
 
 `export PATH="$PATH:$HOME/YOUR_PATH/build"`
 
